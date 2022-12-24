@@ -5,3 +5,4 @@ pre-commit
 pytest-cov
 pyupgrade==2.31.0
 testfixtures==6.17.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
