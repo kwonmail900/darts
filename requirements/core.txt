@@ -14,3 +14,4 @@ statsforecast>=0.5.2
 statsmodels>=0.13.0
 tqdm>=4.60.0
 xarray>=0.17.0
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
